@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferencesApp</string>
+    <string name="pref_file_key">com.inovationware.sharedpreferencesapp_PREFERENCES_FILE_KEY</string>
+</resources>
